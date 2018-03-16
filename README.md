@@ -29,6 +29,6 @@ Current proposals being investigated/worked on: <https://github.com/GD399-OSD/li
   - timelines for implementation?
   - how to stay involved as projects progress?
 
-### For 3/31
+### For 3/30
 
 - Present to heather and some other library staff in our classroom @ 11am
