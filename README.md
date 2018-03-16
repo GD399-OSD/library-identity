@@ -11,7 +11,7 @@ Current proposals being investigated/worked on: <https://github.com/GD399-OSD/li
 
 ## Package our Proposals for Library review/feedback/presentation
 
-For 3/23
+### For 3/23
 
 1. Organize Projects on Github.
 
@@ -29,6 +29,6 @@ For 3/23
   - timelines for implementation?
   - how to stay involved as projects progress?
 
-For 3/31
+### For 3/31
 
 - Present to heather and some other library staff in our classroom @ 11am
